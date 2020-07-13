@@ -81,7 +81,6 @@ public class Main {
         }
     }
 
-<<<<<<< HEAD
     private static void playerNextMove() {
         int x;
         int y;
@@ -117,11 +116,5 @@ public class Main {
         playerNextMove();
         //analyzeBoard();
         printBoard();
-=======
-    public static void main(String[] args) {
-        getInput();
-        printBoard();
-        analyzeBoard();
->>>>>>> d37fa445a1eeda1f198f8b0edd4c89f7bc29628e
     }
 }
